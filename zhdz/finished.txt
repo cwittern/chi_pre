@@ -2,7 +2,7 @@
 zd020656a.zhdz.exp0.tif
 zd020656b.zhdz.exp0.tif
 zd020656c.zhdz.exp0.tif
-#zd070327a.zhdz.exp0.tif
+zd070327a.zhdz.exp0.tif
 #zd070327b.zhdz.exp0.tif
 #zd070327c.zhdz.exp0.tif
 #zd070328a.zhdz.exp0.tif
