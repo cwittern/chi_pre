@@ -8,7 +8,7 @@ zd070327c.zhdz.exp0.tif
 zd070328a.zhdz.exp0.tif
 zd070328b.zhdz.exp0.tif
 zd070328c.zhdz.exp0.tif
-#zd070329a.zhdz.exp0.tif
+zd070329a.zhdz.exp0.tif
 #zd070329b.zhdz.exp0.tif
 #zd070329c.zhdz.exp0.tif
 #zd070330a.zhdz.exp0.tif
