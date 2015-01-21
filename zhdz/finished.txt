@@ -15,7 +15,7 @@ zd070330a.zhdz.exp0.tif
 zd070330b.zhdz.exp0.tif
 zd070330c.zhdz.exp0.tif
 zd070331a.zhdz.exp0.tif
-#zd070331b.zhdz.exp0.tif
+zd070331b.zhdz.exp0.tif
 #zd070331c.zhdz.exp0.tif
 #zd070332a.zhdz.exp0.tif
 #zd090127a.zhdz.exp0.tif
