@@ -36,7 +36,7 @@ zd090131c.zhdz.exp0.tif
 zd090132a.zhdz.exp0.tif
 zd090132b.zhdz.exp0.tif
 zd090132c.zhdz.exp0.tif
-#zd090133a.zhdz.exp0.tif
+zd090133a.zhdz.exp0.tif
 #zd090133b.zhdz.exp0.tif
 #zd090133c.zhdz.exp0.tif
 #zd090134a.zhdz.exp0.tif
