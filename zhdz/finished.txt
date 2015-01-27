@@ -53,7 +53,7 @@ zd190003a.zhdz.exp0.tif
 zd190003b.zhdz.exp0.tif
 zd190003c.zhdz.exp0.tif
 zd190048c.zhdz.exp0.tif
-#zd190049a.zhdz.exp0.tif
+zd190049a.zhdz.exp0.tif
 #zd190049b.zhdz.exp0.tif
 #zd190049c.zhdz.exp0.tif
 #zd190050a.zhdz.exp0.tif
