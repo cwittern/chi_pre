@@ -1,6 +1,6 @@
 L028-003a.tif
 L028-003b.tif
-#L028-004a.tif
+L028-004a.tif
 #L028-004b.tif
 #L028-005a.tif
 #L028-005b.tif
