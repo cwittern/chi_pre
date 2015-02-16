@@ -26,4 +26,9 @@ text2image --leading 18 --box_padding 2 --char_spacing 2 --ptsize 24 --font "FZK
 #+END_SRC
 
 ** 
-
+* Training
+** Box failures
+   - trying to cope with box failures.  Using the latest script
+     $/code/cutbox a new tiffbox pair is generated with all failed
+     boxes, in =test04= almost all boxes can be applied, we have
+     failure of six out of 274. 
