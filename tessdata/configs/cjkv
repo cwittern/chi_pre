@@ -1,0 +1,68 @@
+#vertical!! only!!
+textord_tabfind_force_vertical_text T
+# from https://groups.google.com/forum/#!msg/tesseract-ocr/A4IQlslY7hc/d4xK1PoihfMJ
+chop_enable                         T
+use_new_state_cost                  F
+segment_segcost_rating              F
+enable_new_segsearch            0
+language_model_ngram_on         0
+textord_force_make_prop_words       F
+
+# this is from chi_tra training data
+# Important configurations for CJK mode
+
+# always force word_associator to run, whereas "enable_assoc" is conditioned on
+# permuter rejection, which may not be what we want until we finalize the
+# dictionary issue for CJK
+force_word_assoc   T
+
+# Chinese symbols are more complex than Latin.  Adjust the blob filtering
+# thresholds so they do not get filtered out as noise or containers.
+# Also force word segmentation to reduce the length of blob sequences.
+edges_use_new_outline_complexity    T
+edges_children_fix                  T
+edges_max_children_per_outline     40
+edges_max_children_layers           5
+edges_children_count_limit       10000
+tosp_force_wordbreak_on_punct       F
+#textord_force_make_prop_words       T
+textord_noise_sizelimit             0.2
+textord_noise_normratio             5
+textord_max_noise_size              7
+textord_words_maxspace	0.1	Multiple of xheight
+textord_words_default_maxspace	0.01	Max believable third space
+textord_words_default_minspace	0.001	Fraction of xheight
+textord_words_min_minspace	0.001	Fraction of xheight
+textord_words_default_nonspace	0.0001	Fraction of xheight
+
+# Make use of the fact that Chinese is monospaced, and incorporate that
+# into character segmentation cost for search, and inject this cost to
+# word rating.
+bestrate_pruning_factor             2.0
+classify_integer_matcher_multiplier 6
+assume_fixed_pitch_char_segment     T
+use_new_state_cost                  T
+#segment_segcost_rating              T
+heuristic_segcost_rating_base       1.25
+heuristic_weight_rating             1
+heuristic_weight_width              0.01
+heuristic_weight_seamcut            0.001
+heuristic_max_char_wh_ratio         1.3
+tessedit_char_blacklist             氵宀灬丿丶ˇ幺扌亻〆‰囗
+
+# Since we do not have a dictionary for Chinese yet, none of the results
+# will be found in dawg.  We need to relax the stopping condition and turn
+# off dictionary based penalties.  Instead, we get additional constraints
+# from script consistency.
+load_system_dawg F
+load_freq_dawg F
+load_punc_dawg F
+load_number_dawg F
+load_unambig_dawg F
+load_bigram_dawg F
+load_fixed_length_dawgs F
+stopper_nondict_certainty_base   -2
+segment_penalty_dict_nonword      1.0
+segment_penalty_garbage           1.0
+permute_script_word               T
+segment_reward_script             0.95
