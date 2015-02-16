@@ -1,0 +1,783 @@
+L028-003a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=10, but median xheight = 8.5
+row xheight=114.688, but median xheight = 8.5
+row xheight=64, but median xheight = 8.5
+row xheight=71, but median xheight = 8.5
+row xheight=68, but median xheight = 8.5
+row xheight=66, but median xheight = 8.5
+row xheight=69, but median xheight = 8.5
+row xheight=63, but median xheight = 8.5
+row xheight=14, but median xheight = 8.5
+row xheight=65, but median xheight = 8.5
+row xheight=34, but median xheight = 8.5
+row xheight=20, but median xheight = 8.5
+row xheight=15, but median xheight = 8.5
+row xheight=51, but median xheight = 8.5
+row xheight=26, but median xheight = 8.5
+row xheight=32, but median xheight = 8.5
+row xheight=66.5, but median xheight = 8.5
+row xheight=60, but median xheight = 8.5
+row xheight=62, but median xheight = 8.5
+row xheight=69, but median xheight = 8.5
+row xheight=66, but median xheight = 8.5
+row xheight=10, but median xheight = 8.5
+APPLY_BOXES: boxfile line 9/二 ((1652,573),(1687,600)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 11/五 ((1601,566),(1640,600)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 22/奢 ((1501,885),(1580,961)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 28/云 ((1550,505),(1586,545)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 29/鸚 ((1544,443),(1592,490)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 30/鴿 ((1544,383),(1587,423)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 31/子 ((1547,319),(1587,360)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 32/舊 ((1543,239),(1583,296)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 33/名 ((1496,563),(1534,607)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 34/舎 ((1494,497),(1540,545)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 35/利 ((1496,443),(1538,485)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 36/弗 ((1501,375),(1534,421)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 37/者 ((1496,305),(1536,357)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 38/一 ((1498,255),(1535,268)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 47/舊 ((1445,761),(1479,816)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 48/名 ((1439,703),(1474,744)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 49/大 ((1438,646),(1483,686)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 51/捷 ((1387,765),(1439,813)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 52/連 ((1389,703),(1433,747)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 53/者 ((1393,634),(1430,686)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 69/此 ((1335,702),(1379,738)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 70/云 ((1335,644),(1378,677)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 71/善 ((1338,578),(1378,627)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 72/實 ((1338,508),(1374,560)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 73/舊 ((1338,441),(1374,497)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 75/須 ((1286,697),(1326,738)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 76/菩 ((1282,632),(1325,683)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 77/提 ((1282,576),(1335,619)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 78/者 ((1286,512),(1326,556)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 79/五 ((1288,456),(1326,488)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 85/舊 ((1230,1101),(1264,1155)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 86/名 ((1230,1038),(1264,1076)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 87/迦 ((1223,971),(1270,1010)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 89/延 ((1178,1104),(1221,1147)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 90/者 ((1178,1031),(1217,1076)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 91/六 ((1182,974),(1215,1003)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 97/舊 ((1230,494),(1265,550)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 98/名 ((1231,441),(1263,481)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 99/劫 ((1231,382),(1268,422)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 101/那 ((1182,498),(1225,537)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 102/者 ((1181,434),(1221,482)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 103/七 ((1183,389),(1214,421)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 127/迷 ((956,1018),(1017,1076)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 129/黎 ((956,880),(1035,949)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 134/囉 ((962,555),(1038,615)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 135/此 ((991,497),(1041,537)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 142/富 ((952,498),(986,546)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 148/伽 ((946,33),(1030,87)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 152/此 ((889,893),(934,933)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 158/憍 ((888,509),(937,552)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 159/梵 ((844,893),(881,933)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 170/此 ((887,107),(934,150)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 172/譬 ((840,97),(876,147)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 174/舊 ((779,1097),(815,1147)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 176/周 ((782,966),(817,1011)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 179/陀 ((734,1105),(772,1146)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 181/十 ((738,971),(767,1003)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 187/摩 ((747,492),(817,555)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 192/此 ((776,160),(824,204)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 193/云 ((782,98),(817,132)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 194/物 ((778,32),(823,70)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 195/力 ((738,170),(766,202)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 196/士 ((738,108),(773,136)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 197/子 ((733,36),(769,70)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 198/舊 ((681,1094),(713,1144)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 209/䭾 ((652,680),(720,734)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 212/那 ((644,488),(711,539)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 213/迦 ((643,429),(719,477)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 214/十 ((675,382),(706,406)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 215/六 ((634,381),(665,406)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 218/十 ((679,173),(711,204)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 219/七 ((636,173),(666,204)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 220/摩 ((640,88),(712,162)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 225/十 ((549,902),(580,930)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 226/八 ((503,899),(546,930)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 230/十 ((547,638),(579,670)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 235/二 ((539,390),(574,409)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 236/十 ((493,384),(525,417)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     309
+   Boxes failed resegmentation:      78
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1230,1702)->(-1205,1711)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-32,-183)->(0,0)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-600,1601)->(-566,1687)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-545,1494)->(-443,1593)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-423,1501)->(-377,1588)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-560,1286)->(-440,1375)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1155,1178)->(-1101,1264)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1076,1178)->(-1031,1264)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1010,1182)->(-971,1271)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1072,998)->(-1036,1012)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-909,998)->(-884,1035)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-67,1003)->(-42,1030)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-87,946)->(-33,999)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-933,910)->(-896,935)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-150,909)->(-111,935)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-542,888)->(-532,892)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-146,840)->(-97,909)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-990,794)->(-976,809)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-531,805)->(-515,817)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-204,798)->(-160,824)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-67,799)->(-32,824)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1147,734)->(-1097,815)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-200,738)->(-166,798)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-136,738)->(-98,817)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-70,733)->(-32,805)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1144,682)->(-1101,713)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-734,677)->(-687,720)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-539,686)->(-464,711)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-136,683)->(-123,712)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-854,0)->(-851,3)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-827,0)->(-792,6)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-747,0)->(-703,5)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-666,0)->(-661,3)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-628,0)->(-487,6)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-316,0)->(-286,9)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-230,0)->(-166,9)
+   Found 231 good blobs.
+   Leaving 164 unlabelled blobs in 0 words.
+   36 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 72 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-003b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=53.5901, but median xheight = 62.3125
+row xheight=71, but median xheight = 62.3125
+row xheight=16, but median xheight = 62.3125
+row xheight=17.5, but median xheight = 62.3125
+APPLY_BOXES: boxfile line 74/近 ((1170,777),(1238,836)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 124/安 ((838,834),(912,895)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 191/普 ((388,892),(467,959)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 200/智 ((399,286),(467,348)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 238/菩 ((189,25),(261,87)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 249/菩 ((74,427),(150,505)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       6
+APPLY_BOXES: Unlabelled word at :Bounding box=(-50,214)->(-25,243)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1242,11)->(0,43)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-458,0)->(-423,10)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-234,0)->(-193,26)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-78,0)->(-35,26)
+   Found 249 good blobs.
+   Leaving 28 unlabelled blobs in 0 words.
+   5 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 34 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-004a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=44, but median xheight = 60.25
+row xheight=73, but median xheight = 60.25
+row xheight=45, but median xheight = 60.25
+row xheight=68, but median xheight = 60.25
+row xheight=75, but median xheight = 60.25
+row xheight=70, but median xheight = 60.25
+row xheight=71, but median xheight = 60.25
+APPLY_BOXES: boxfile line 38/顯 ((1452,969),(1522,1037)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 98/孕 ((1064,321),(1129,396)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 114/然 ((953,386),(1030,449)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 123/摩 ((836,952),(918,1035)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 148/菩 ((727,388),(801,457)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 149/薩 ((733,315),(801,390)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 153/菩 ((721,34),(795,106)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 169/盡 ((618,108),(682,179)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 176/薩 ((487,832),(553,911)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 177/摩 ((477,761),(556,837)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 183/菩 ((473,339),(549,413)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 193/燈 ((370,849),(454,917)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 213/向 ((265,636),(327,694)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 217/薩 ((261,330),(333,412)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:      14
+APPLY_BOXES: Unlabelled word at :Bounding box=(-671,280)->(-645,309)
+   Found 241 good blobs.
+   Leaving 104 unlabelled blobs in 0 words.
+   1 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 45 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-004b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=51, but median xheight = 58.75
+row xheight=70, but median xheight = 58.75
+row xheight=49.4055, but median xheight = 58.75
+APPLY_BOXES: boxfile line 3/惡 ((1653,1055),(1730,1128)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 82/伏 ((1197,270),(1277,327)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       2
+   Found 253 good blobs.
+   Leaving 16 unlabelled blobs in 0 words.
+TRAINING ... Font name = UnknownFont
+Generated training data for 61 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-005a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=8.66667, but median xheight = 12.4706
+row xheight=63.25, but median xheight = 12.4706
+row xheight=63, but median xheight = 12.4706
+row xheight=56, but median xheight = 12.4706
+row xheight=63.25, but median xheight = 12.4706
+row xheight=63.25, but median xheight = 12.4706
+row xheight=62, but median xheight = 12.4706
+row xheight=61, but median xheight = 12.4706
+row xheight=70, but median xheight = 12.4706
+row xheight=52, but median xheight = 12.4706
+row xheight=64, but median xheight = 12.4706
+row xheight=34, but median xheight = 12.4706
+row xheight=62, but median xheight = 12.4706
+row xheight=78, but median xheight = 12.4706
+row xheight=70.5, but median xheight = 12.4706
+row xheight=60, but median xheight = 12.4706
+row xheight=70, but median xheight = 12.4706
+row xheight=22.5, but median xheight = 12.4706
+APPLY_BOXES: boxfile line 8/諸 ((1706,679),(1777,753)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 35/皆 ((1485,1194),(1551,1260)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 40/爲 ((1472,808),(1552,886)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 41/無 ((1472,747),(1557,810)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 70/一 ((1247,1229),(1284,1237)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 100/羅 ((1121,245),(1196,317)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 110/槃 ((1004,747),(1075,822)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 111/十 ((1049,702),(1079,736)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 112/二 ((991,702),(1031,725)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 127/十 ((924,842),(967,883)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 128/三 ((879,839),(922,878)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 146/攀 ((782,749),(862,829)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 148/十 ((823,632),(855,666)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 149/四 ((773,628),(813,666)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 157/菩 ((786,33),(861,105)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 160/十 ((705,1054),(740,1091)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 161/五 ((660,1053),(699,1091)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 171/十 ((724,345),(756,380)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 172/六 ((662,349),(704,380)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 182/息 ((536,828),(609,900)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 187/十 ((576,491),(608,528)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 188/七 ((522,493),(561,529)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 190/善 ((525,320),(602,400)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 202/十 ((454,708),(496,741)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 203/八 ((404,709),(450,739)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 209/謬 ((415,254),(504,323)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 221/十 ((353,635),(380,668)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 222/九 ((295,636),(339,668)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 242/二 ((240,428),(273,454)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 243/十 ((194,418),(222,454)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 248/賢 ((207,35),(270,116)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 255/二 ((123,772),(160,795)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     266
+   Boxes failed resegmentation:      32
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1317,1804)->(-1288,1817)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-380,672)->(-345,758)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-896,621)->(-817,655)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-741,404)->(-708,496)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-454,194)->(-418,273)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-53,241)->(-35,262)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1317,-2)->(0,43)
+   Found 234 good blobs.
+   Leaving 136 unlabelled blobs in 0 words.
+   7 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 58 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-005b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=73, but median xheight = 61.5
+row xheight=48, but median xheight = 61.5
+row xheight=42, but median xheight = 61.5
+row xheight=25, but median xheight = 61.5
+row xheight=23.5, but median xheight = 61.5
+APPLY_BOXES: boxfile line 2/二 ((1727,1131),(1765,1158)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 4/二 ((1677,1128),(1716,1158)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 13/二 ((1727,410),(1771,436)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 15/三 ((1673,406),(1719,441)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 24/二 ((1621,905),(1658,931)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 26/四 ((1573,905),(1611,936)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 37/二 ((1622,55),(1661,80)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 48/二 ((1518,548),(1550,571)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 50/六 ((1459,541),(1497,571)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 58/二 ((1401,1128),(1443,1152)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 60/七 ((1349,1124),(1389,1159)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 68/二 ((1402,488),(1441,512)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 70/八 ((1346,483),(1394,512)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 79/二 ((1291,977),(1328,1003)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 81/九 ((1239,973),(1280,1006)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 91/三 ((1295,193),(1332,226)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 92/十 ((1249,193),(1278,226)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 102/三 ((1150,683),(1189,715)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 114/三 ((1035,1116),(1078,1148)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 125/三 ((1039,405),(1083,437)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 127/三 ((989,402),(1029,434)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 140/三 ((930,611),(973,643)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 142/四 ((880,613),(920,643)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 153/三 ((816,971),(859,1002)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 155/五 ((762,968),(804,1005)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 166/三 ((814,103),(859,136)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 179/三 ((708,472),(748,508)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 181/七 ((662,474),(699,508)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 191/三 ((585,903),(627,935)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 193/八 ((533,908),(575,935)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 209/三 ((470,912),(514,945)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 211/九 ((420,911),(462,941)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 222/四 ((472,49),(520,76)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 253/皆 ((338,113),(400,180)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 272/行 ((91,1175),(174,1237)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 277/提 ((95,820),(174,888)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 278/場 ((102,748),(166,813)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 285/證 ((103,265),(188,325)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     288
+   Boxes failed resegmentation:      38
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1158,1677)->(-1128,1765)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-441,1673)->(-406,1773)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-936,1573)->(-905,1658)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-571,1459)->(-541,1550)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-512,1346)->(-483,1442)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-226,1249)->(-192,1332)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-643,880)->(-610,973)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1005,762)->(-967,859)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-935,533)->(-903,628)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-945,420)->(-911,513)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-173,338)->(-144,363)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1321,0)->(0,47)
+   Found 250 good blobs.
+   Leaving 66 unlabelled blobs in 0 words.
+   12 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 70 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-006a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=20, but median xheight = 39.4667
+row xheight=53.9765, but median xheight = 39.4667
+row xheight=51.0588, but median xheight = 39.4667
+row xheight=52.5176, but median xheight = 39.4667
+row xheight=53.2471, but median xheight = 39.4667
+row xheight=53, but median xheight = 39.4667
+row xheight=65, but median xheight = 39.4667
+row xheight=59, but median xheight = 39.4667
+row xheight=67, but median xheight = 39.4667
+row xheight=62, but median xheight = 39.4667
+row xheight=62, but median xheight = 39.4667
+row xheight=53.6608, but median xheight = 39.4667
+row xheight=61, but median xheight = 39.4667
+row xheight=62, but median xheight = 39.4667
+row xheight=52.9357, but median xheight = 39.4667
+row xheight=62, but median xheight = 39.4667
+APPLY_BOXES: boxfile line 7/四 ((1703,758),(1743,786)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 9/一 ((1655,772),(1695,782)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 25/四 ((1588,762),(1629,788)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 27/二 ((1547,761),(1581,788)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 41/四 ((1482,909),(1520,937)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 43/三 ((1438,907),(1472,937)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 57/四 ((1372,1053),(1416,1081)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 59/四 ((1324,1050),(1363,1079)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 79/四 ((1256,772),(1294,800)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 81/五 ((1206,764),(1250,800)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 100/四 ((1117,552),(1158,583)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 102/六 ((1066,550),(1105,585)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 110/四 ((1013,1118),(1056,1149)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 112/七 ((963,1120),(1005,1154)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 123/四 ((1001,263),(1040,291)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 125/八 ((949,260),(996,294)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 136/四 ((891,622),(935,652)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 138/九 ((842,623),(884,655)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 152/十 ((739,841),(773,875)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 208/五 ((409,556),(453,592)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 210/二 ((369,558),(404,588)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 227/五 ((299,482),(345,519)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 229/三 ((253,480),(291,516)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 245/五 ((190,484),(230,521)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 260/五 ((75,687),(125,722)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 262/五 ((27,686),(67,717)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     270
+   Boxes failed resegmentation:      26
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1337,1783)->(0,1823)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-786,1655)->(-757,1743)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-788,1547)->(-761,1629)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-937,1438)->(-907,1521)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1081,1324)->(-1050,1416)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1154,963)->(-1117,1058)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-294,949)->(-260,1040)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-722,27)->(-686,125)
+   Found 244 good blobs.
+   Leaving 29 unlabelled blobs in 0 words.
+   8 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 66 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-006b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=22.5, but median xheight = 44.4333
+row xheight=79, but median xheight = 44.4333
+row xheight=80, but median xheight = 44.4333
+row xheight=76, but median xheight = 44.4333
+row xheight=52, but median xheight = 44.4333
+row xheight=73, but median xheight = 44.4333
+row xheight=71.6667, but median xheight = 44.4333
+row xheight=59, but median xheight = 44.4333
+row xheight=71, but median xheight = 44.4333
+row xheight=75, but median xheight = 44.4333
+row xheight=66, but median xheight = 44.4333
+row xheight=57, but median xheight = 44.4333
+row xheight=60, but median xheight = 44.4333
+row xheight=73, but median xheight = 44.4333
+row xheight=8.66667, but median xheight = 44.4333
+APPLY_BOXES: boxfile line 7/五 ((1670,781),(1719,816)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 9/六 ((1625,782),(1665,816)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 23/五 ((1565,926),(1609,960)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 25/七 ((1519,927),(1557,960)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 37/五 ((1462,1238),(1502,1272)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 39/八 ((1406,1240),(1453,1268)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 51/五 ((1445,276),(1485,313)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 53/九 ((1399,276),(1441,311)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 65/六 ((1333,571),(1379,607)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 66/十 ((1294,569),(1330,607)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 94/六 ((1099,1009),(1142,1042)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 96/二 ((1059,1013),(1094,1040)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 109/六 ((986,1232),(1032,1269)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 111/三 ((940,1220),(985,1265)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 131/六 ((878,923),(921,958)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 133/四 ((835,923),(875,954)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 155/善 ((728,473),(807,545)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 159/六 ((770,221),(817,253)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 161/五 ((723,214),(765,250)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 183/六 ((514,994),(555,1028)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 185/六 ((462,993),(505,1031)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     265
+   Boxes failed resegmentation:      21
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1348,1778)->(0,1823)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1272,1406)->(-1238,1502)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1042,1059)->(-1008,1143)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1269,940)->(-1224,1033)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1031,462)->(-993,556)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-888,0)->(-850,15)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-832,0)->(-826,13)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-19,0)->(0,11)
+   Found 244 good blobs.
+   Leaving 25 unlabelled blobs in 0 words.
+   8 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 57 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-007a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=77, but median xheight = 68.4167
+row xheight=58, but median xheight = 68.4167
+APPLY_BOXES: boxfile line 36/六 ((1456,1125),(1496,1159)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 38/七 ((1410,1121),(1447,1159)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 67/六 ((1347,204),(1392,237)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 69/八 ((1298,215),(1336,237)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 102/六 ((1096,196),(1137,229)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 104/九 ((1051,193),(1090,223)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 126/量 ((830,953),(901,1030)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 139/隨 ((838,102),(911,175)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 159/儀 ((601,1090),(683,1174)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 160/善 ((600,1025),(676,1099)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 215/羅 ((241,730),(319,803)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     259
+   Boxes failed resegmentation:      11
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1159,1410)->(-1121,1496)
+   Found 248 good blobs.
+   Leaving 44 unlabelled blobs in 0 words.
+   1 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 39 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-007b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+APPLY_BOXES: boxfile line 77/供 ((1188,633),(1267,689)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 91/商 ((1049,816),(1106,890)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 141/音 ((706,905),(786,976)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       3
+   Found 252 good blobs.
+   Leaving 20 unlabelled blobs in 0 words.
+TRAINING ... Font name = UnknownFont
+Generated training data for 54 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-009a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=76, but median xheight = 65.5
+row xheight=38, but median xheight = 65.5
+row xheight=48.6667, but median xheight = 65.5
+row xheight=50, but median xheight = 65.5
+row xheight=47.3333, but median xheight = 65.5
+row xheight=46.6667, but median xheight = 65.5
+row xheight=48, but median xheight = 65.5
+APPLY_BOXES: boxfile line 3/無 ((1643,1041),(1726,1109)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 24/夜 ((1532,747),(1617,815)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 42/舎 ((1421,679),(1505,745)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 113/爲 ((945,460),(1020,534)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 160/爲 ((611,741),(680,810)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 164/願 ((608,464),(684,528)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 166/有 ((618,332),(683,400)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 181/我 ((467,464),(538,534)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       8
+APPLY_BOXES: Unlabelled word at :Bounding box=(-879,553)->(-836,590)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-817,555)->(-796,587)
+   Found 247 good blobs.
+   Leaving 45 unlabelled blobs in 0 words.
+   2 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 32 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-009b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=54, but median xheight = 65.25
+row xheight=57, but median xheight = 65.25
+row xheight=57, but median xheight = 65.25
+APPLY_BOXES: boxfile line 6/説 ((1646,804),(1727,864)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 137/知 ((732,1175),(806,1232)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       2
+   Found 253 good blobs.
+   Leaving 9 unlabelled blobs in 0 words.
+TRAINING ... Font name = UnknownFont
+Generated training data for 36 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-010a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+FAIL!
+APPLY_BOXES: boxfile line 17/摩 ((1661,40),(1749,119)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 159/利 ((646,841),(711,903)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 160/彼 ((638,769),(719,832)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 176/尸 ((496,834),(557,891)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 205/行 ((274,1193),(352,1258)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 227/行 ((151,835),(234,898)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 232/若 ((152,487),(239,555)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       7
+   Found 248 good blobs.
+   Leaving 30 unlabelled blobs in 0 words.
+TRAINING ... Font name = UnknownFont
+Generated training data for 29 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-010b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=77, but median xheight = 66.3333
+row xheight=55, but median xheight = 66.3333
+row xheight=57.8182, but median xheight = 66.3333
+row xheight=56, but median xheight = 66.3333
+row xheight=75, but median xheight = 66.3333
+row xheight=77, but median xheight = 66.3333
+row xheight=55.5359, but median xheight = 66.3333
+row xheight=10, but median xheight = 66.3333
+APPLY_BOXES: boxfile line 103/囉 ((984,1195),(1064,1269)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 212/説 ((268,672),(349,733)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 214/曼 ((278,520),(352,596)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 244/諸 ((50,822),(120,892)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 245/所 ((41,745),(120,810)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 251/無 ((36,317),(118,382)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       6
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1262,984)->(-1238,1006)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1217,995)->(-1200,1024)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-23,0)->(0,8)
+   Found 249 good blobs.
+   Leaving 33 unlabelled blobs in 0 words.
+   3 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 61 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-011a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=55.3125, but median xheight = 37.4688
+row xheight=71, but median xheight = 37.4688
+row xheight=56, but median xheight = 37.4688
+row xheight=72, but median xheight = 37.4688
+row xheight=62, but median xheight = 37.4688
+row xheight=70, but median xheight = 37.4688
+row xheight=66, but median xheight = 37.4688
+row xheight=62.75, but median xheight = 37.4688
+row xheight=62.75, but median xheight = 37.4688
+row xheight=62.75, but median xheight = 37.4688
+row xheight=62.75, but median xheight = 37.4688
+row xheight=55.5277, but median xheight = 37.4688
+row xheight=56, but median xheight = 37.4688
+row xheight=52, but median xheight = 37.4688
+row xheight=62.75, but median xheight = 37.4688
+row xheight=58, but median xheight = 37.4688
+row xheight=10.1667, but median xheight = 37.4688
+APPLY_BOXES: boxfile line 185/有 ((537,182),(609,247)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       1
+APPLY_BOXES: Unlabelled word at :Bounding box=(-38,-1338)->(0,-1250)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-343,0)->(-228,15)
+   Found 254 good blobs.
+   Leaving 9 unlabelled blobs in 0 words.
+   2 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 64 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-011b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=57, but median xheight = 68.1667
+row xheight=43, but median xheight = 68.1667
+row xheight=26.5, but median xheight = 68.1667
+APPLY_BOXES: boxfile line 19/然 ((1668,1110),(1744,1178)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 142/如 ((827,819),(907,877)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 210/璃 ((340,799),(412,868)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 218/生 ((338,228),(414,284)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 244/尼 ((110,815),(175,868)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 245/寳 ((110,731),(182,815)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 251/彼 ((101,322),(182,385)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       7
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1347,-1)->(0,52)
+   Found 248 good blobs.
+   Leaving 42 unlabelled blobs in 0 words.
+   1 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 52 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-012a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=11.3333, but median xheight = 25.4
+row xheight=19.375, but median xheight = 25.4
+row xheight=57.8842, but median xheight = 25.4
+row xheight=70.5, but median xheight = 25.4
+row xheight=70, but median xheight = 25.4
+row xheight=60.1105, but median xheight = 25.4
+row xheight=70.5, but median xheight = 25.4
+row xheight=48.8667, but median xheight = 25.4
+row xheight=48.8667, but median xheight = 25.4
+row xheight=48.8667, but median xheight = 25.4
+row xheight=48.8667, but median xheight = 25.4
+row xheight=48.8667, but median xheight = 25.4
+row xheight=61, but median xheight = 25.4
+row xheight=63.5, but median xheight = 25.4
+row xheight=63.5, but median xheight = 25.4
+row xheight=66, but median xheight = 25.4
+row xheight=63.5, but median xheight = 25.4
+row xheight=20, but median xheight = 25.4
+APPLY_BOXES: boxfile line 38/色 ((1480,974),(1546,1046)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 229/是 ((160,684),(243,754)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 230/若 ((166,613),(243,681)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       3
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1306,1845)->(-1096,1867)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1070,1846)->(-895,1867)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1834,-1306)->(-1827,-1276)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1834,-31)->(-1827,0)
+   Found 252 good blobs.
+   Leaving 20 unlabelled blobs in 0 words.
+   4 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 44 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-012b.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=29, but median xheight = 57.2273
+row xheight=71, but median xheight = 57.2273
+row xheight=24, but median xheight = 57.2273
+APPLY_BOXES: boxfile line 42/化 ((1468,700),(1523,754)): FAILURE! Couldn't find a matching blob
+FAIL!
+APPLY_BOXES: boxfile line 61/生 ((1343,558),(1416,621)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 127/見 ((858,691),(936,763)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 175/等 ((500,907),(574,987)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       4
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1369,1814)->(0,1872)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-908,1175)->(-865,1213)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-846,1173)->(-824,1207)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-389,1172)->(-361,1202)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-340,1168)->(-312,1202)
+   Found 251 good blobs.
+   Leaving 20 unlabelled blobs in 0 words.
+   5 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 26 words
+Warning in pixReadMemTiff: tiff page 1 not found
+L028-013a.box
+Tesseract Open Source OCR Engine v3.04.00 with Leptonica
+Page 1
+row xheight=39.0625, but median xheight = 25.4706
+row xheight=39.0625, but median xheight = 25.4706
+row xheight=38, but median xheight = 25.4706
+row xheight=69, but median xheight = 25.4706
+row xheight=69.75, but median xheight = 25.4706
+row xheight=72, but median xheight = 25.4706
+row xheight=69.75, but median xheight = 25.4706
+row xheight=69, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=62.1723, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=69.1667, but median xheight = 25.4706
+row xheight=59.8408, but median xheight = 25.4706
+row xheight=67, but median xheight = 25.4706
+row xheight=10, but median xheight = 25.4706
+APPLY_BOXES: boxfile line 31/寳 ((1630,246),(1698,332)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 145/生 ((800,627),(875,687)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 160/有 ((689,766),(763,832)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 187/道 ((548,35),(630,101)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES: boxfile line 209/彼 ((312,910),(396,970)): FAILURE! Couldn't find a matching blob
+APPLY_BOXES:
+   Boxes read from boxfile:     255
+   Boxes failed resegmentation:       5
+APPLY_BOXES: Unlabelled word at :Bounding box=(-38,-33)->(-12,0)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-38,-1328)->(-12,-1266)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-87,554)->(-74,567)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1287,0)->(-1247,8)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1208,0)->(-1201,6)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-1134,0)->(-1103,5)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-898,0)->(-890,6)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-825,0)->(-792,6)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-757,0)->(-718,7)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-704,0)->(-608,9)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-553,0)->(-537,5)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-345,0)->(-312,14)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-253,0)->(-227,11)
+APPLY_BOXES: Unlabelled word at :Bounding box=(-206,0)->(-178,9)
+   Found 250 good blobs.
+   Leaving 34 unlabelled blobs in 0 words.
+   14 remaining unlabelled words deleted.
+TRAINING ... Font name = UnknownFont
+Generated training data for 24 words
+Warning in pixReadMemTiff: tiff page 1 not found
