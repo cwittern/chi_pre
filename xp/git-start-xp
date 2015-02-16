@@ -1,0 +1,17 @@
+#!/bin/sh
+name=$1
+cp -av xptemplate $name
+branch_name="xp_$name"
+
+# Making sure everything is commited
+if git diff-index --quiet HEAD --; then
+    echo "Everything is commited"
+else
+    echo "Error: It is better to commit everything before creating a new branch"
+    exit 3
+fi
+
+# Create and move to new branch
+git branch $branch_name
+git checkout $branch_name
+
