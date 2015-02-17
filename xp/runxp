@@ -1,0 +1,5 @@
+#!/bin/bash
+# Script for running tesseract with benchmarking
+
+set -e # fail fast
+

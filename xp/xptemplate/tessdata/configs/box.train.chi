@@ -1,0 +1,46 @@
+file_type                   .bl
+#tessedit_use_nn				F
+textord_fast_pitch_test	T
+tessedit_single_match	0
+tessedit_zero_rejection T
+tessedit_minimal_rejection F
+tessedit_write_rep_codes F
+il1_adaption_test 1
+edges_children_fix F
+edges_childarea 0.65
+edges_boxarea 0.9
+tessedit_resegment_from_boxes T
+tessedit_train_from_boxes T
+#textord_repeat_extraction F
+textord_no_rejects T
+### below 
+edges_use_new_outline_complexity    T
+edges_children_fix                  T
+edges_max_children_per_outline     40
+edges_max_children_layers           5
+edges_children_count_limit       10000
+tosp_force_wordbreak_on_punct       F
+#textord_force_make_prop_words       T
+textord_noise_sizelimit             0.2
+textord_noise_normratio             5
+textord_max_noise_size              7
+textord_words_maxspace	0.1	Multiple of xheight
+textord_words_default_maxspace	0.01	Max believable third space
+textord_words_default_minspace	0.001	Fraction of xheight
+textord_words_min_minspace	0.001	Fraction of xheight
+textord_words_default_nonspace	0.0001	Fraction of xheight
+
+# Make use of the fact that Chinese is monospaced, and incorporate that
+# into character segmentation cost for search, and inject this cost to
+# word rating.
+bestrate_pruning_factor             2.0
+classify_integer_matcher_multiplier 6
+assume_fixed_pitch_char_segment     T
+use_new_state_cost                  T
+#segment_segcost_rating              T
+heuristic_segcost_rating_base       1.25
+heuristic_weight_rating             1
+heuristic_weight_width              0.01
+heuristic_weight_seamcut            0.001
+heuristic_max_char_wh_ratio         1.3
+

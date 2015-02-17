@@ -1,5 +1,12 @@
 #!/bin/sh
+set -e # fail fast
+if [ -z "$1" ]
+  then
+      echo "No argument supplied. Please give name of new branch/dir on command line."
+      exit 1
+fi
 name=$1
+
 cp -av xptemplate $name
 branch_name="xp_$name"
 
