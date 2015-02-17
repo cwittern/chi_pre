@@ -27,7 +27,7 @@ L028-016b.tif
 L028-017a.tif
 L028-017b.tif
 L028-018a.tif
-#L028-018b.tif
+L028-018b.tif
 #L028-019a.tif
 #L028-019b.tif
 #L028-020a.tif
