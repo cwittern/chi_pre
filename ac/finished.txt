@@ -7,7 +7,7 @@ AC33-p014.tif
 AC34-p014.tif
 AC35a-p090.tif
 AC43-p0016.tif
-#AC58-p0001.tif
+AC58-p0001.tif
 #ICSH01-p007.tif
 #AC26-p031.tif
 #AC26-p032.tif
