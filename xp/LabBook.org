@@ -7,7 +7,7 @@
      to the tesseract OCR and attempts to improve the accuracy.
 ** workflow
    
-   - Nakadate-san is editing the box files in 
+   - N is editing the box files in 
      - skqs
      - longzang
      - zhdz
