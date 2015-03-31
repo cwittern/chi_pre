@@ -12,7 +12,7 @@ ICSH01-p007.tif
 AC26-p031.tif
 AC26-p032.tif
 AC26-p033.tif
-#AC26-p034.tif
+AC26-p034.tif
 #AC27-p037.tif
 #AC27-p038.tif
 #AC27-p039.tif
